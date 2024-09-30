@@ -11,6 +11,52 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
     <img src="https://github.com/neliiiiii/neliiiiii.github.io/blob/main/A%20(1).jpg?raw=true" alt="Oneli Thansa" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
+---
+
+## Education
+### [Degree] in [Field of Study]
+**[University Name]**, [City, Country]  
+*Month Year - Month Year*  
+- Relevant Coursework: Course 1, Course 2, Course 3
+- Honors: Any relevant honors or awards
+
+---
+
+## Certifications
+- **[Certification Name]** - [Issuing Organization] (Month Year)
+- **[Certification Name]** - [Issuing Organization] (Month Year)
+
+---
+
+## Sports and Activities
+- **Sport:** Brief description or achievements (e.g., team captain, competitions)
+- **Sport:** Brief description or achievements
+
+---
+## Skills
+  - Effective communication
+  - Teamwork
+  - Problem-solving
+  - Time management
+  - Adaptability
+
+---
+
+## Projects
+### [Project Title]
+- **Description:** Brief overview of the project.
+- **Role:** Your specific role and contributions.
+- **Tools/Technologies Used:** List of tools or technologies.
+- **Outcome:** Results or impact of the project.
+
+### [Project Title]
+- **Description:** Brief overview of the project.
+- **Role:** Your specific role and contributions.
+- **Tools/Technologies Used:** List of tools or technologies.
+- **Outcome:** Results or impact of the project.
+
+---
+
 ## Download My PDF
 
 You can download my PDF file by clicking the link below:
