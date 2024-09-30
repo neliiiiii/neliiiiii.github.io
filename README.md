@@ -9,8 +9,6 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
 ---
 <div style="text-align: center;">
     <img src="https://github.com/neliiiiii/neliiiiii.github.io/blob/main/A%20(1).jpg?raw=true" alt="Oneli Thansa" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h2>Oneli Thansa</h2>
-    <p>Age: 19</p>
 </div>
 
 
