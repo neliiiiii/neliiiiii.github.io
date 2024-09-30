@@ -14,23 +14,37 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
 ---
 
 ## Education
-### [Degree] in [Field of Study]
-**[University Name]**, [City, Country]  
-*Month Year - Month Year*  
-- Relevant Coursework: Course 1, Course 2, Course 3
-- Honors: Any relevant honors or awards
+### Bsc (Hons) in Biotechnology
+Sri Lanka Institute of Information and Technology
+(Present - 2028)
+### GCE Advanced Level
+Musaeus college colombo 07 (2023)
+- Biology-C
+- Chemistry-C
+- Physics-C
+### GCE Ordinary Level
+Musaeus college colombo 07 (2020)
+- English-A
+- Sinhala-A
+- Buddhisum-A
+- Maths-A
+- Science-A
+- History-A
+- Western Music-A
+- Health and PE-A
+- Commerce-A
 
 ---
 
 ## Certifications
-- **[Certification Name]** - [Issuing Organization] (Month Year)
-- **[Certification Name]** - [Issuing Organization] (Month Year)
+- **PET exams** -Cambridge school of English (2021)
+- **IWMS certification from grade 1 to 5** - Institute of western music and speech (2022)
 
 ---
 
 ## Sports and Activities
-- **Sport:** Brief description or achievements (e.g., team captain, competitions)
-- **Sport:** Brief description or achievements
+- **Football:** played as a attacker (vice captain-Colombo football club)
+- **Tennis:** played for the school team
 
 ---
 ## Skills
@@ -43,17 +57,19 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
 ---
 
 ## Projects
-### [Project Title]
-- **Description:** Brief overview of the project.
-- **Role:** Your specific role and contributions.
-- **Tools/Technologies Used:** List of tools or technologies.
-- **Outcome:** Results or impact of the project.
+### Stone Paper Presentation
+- Created an engaging presentation on the innovative concept of stone paper, exploring its production process, environmental benefits, and potential applications in various industries. The presentation included visuals and infographics to effectively convey the information.
 
-### [Project Title]
-- **Description:** Brief overview of the project.
-- **Role:** Your specific role and contributions.
-- **Tools/Technologies Used:** List of tools or technologies.
-- **Outcome:** Results or impact of the project.
+### Analytical chemistry research
+- Conducted a study on various analytical techniques used in Biotechnology.Analyzed chemical reactions and compounds relevant to Biotech applications.
+
+---
+
+## Hobbies
+
+- **Cycling**: I enjoy exploring new trails and staying active through cycling. It’s a great way to connect with nature and maintain fitness.
+- **Growing Cactus**: I have a passion for gardening, especially cacti. I love learning about different species and their care requirements.
+- **Singing**: Music is a big part of my life. I enjoy singing in my free time, whether it's solo or with friends. It's a great way to express myself and unwind.
 
 ---
 
