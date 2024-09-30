@@ -8,18 +8,6 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
 
 ---
 
-## Projects
-### Project Title 1
-- **Description**: Short description of the project.
-- **Link**: [View Project](link_to_project)
-
-### Project Title 2
-- **Description**: Short description of the project.
-- **Link**: [View Project](link_to_project)
-
-<!-- Add more projects as needed -->
-
----
 
 ## Contact Me
 - **Email**: your_email@example.com
