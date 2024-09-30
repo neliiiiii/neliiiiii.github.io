@@ -17,6 +17,12 @@ You can download my PDF file by clicking the link below:
 
 [Download My PDF](https://github.com/neliiiiii/neliiiiii.github.io/blob/main/Oneli%20Thesansa%20resume%20(1).pdf)
 
+## Download My PDF
+
+You can download my PDF file by clicking the link below:
+
+[Download My Resume](https://raw.githubusercontent.com/neliiiiii/neliiiiii.github.io/main/Oneli%20Thesansa%20resume%20(1).pdf)
+
 
 ## Contact Me
 - **Email**: your_email@example.com
