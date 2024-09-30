@@ -19,8 +19,7 @@ You can download my PDF file by clicking the link below:
 
 
 ## Contact Me
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn](your_linkedin_url)
+- **Email**: [onelipathirage@gmail.com](onelipathirage@gmail.com)
 
 ---
 
