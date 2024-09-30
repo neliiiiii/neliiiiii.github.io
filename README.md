@@ -11,6 +11,12 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
     <img src="https://github.com/neliiiiii/neliiiiii.github.io/blob/main/A%20(1).jpg?raw=true" alt="Oneli Thansa" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
+## Download My PDF
+
+You can download my PDF file by clicking the link below:
+
+[Download My PDF](documents/myfile.pdf)
+
 
 ## Contact Me
 - **Email**: your_email@example.com
