@@ -15,7 +15,7 @@ Hello! I'm Oneli Thansa, a 19-year-old currently pursuing a BSc (Hons) in Biotec
 
 You can download my PDF file by clicking the link below:
 
-[Download My PDF](Oneli Thesansa resume (1).pdf)
+[Download My PDF](https://github.com/neliiiiii/neliiiiii.github.io/blob/main/Oneli%20Thesansa%20resume%20(1).pdf)
 
 
 ## Contact Me
