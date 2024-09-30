@@ -1,7 +1,5 @@
 # neliiiiii.github.io
-# Oneli Thansa
-
-## Age: 19
+# Oneli Thesansa
 
 ---
 
